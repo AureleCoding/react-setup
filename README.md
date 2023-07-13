@@ -27,27 +27,27 @@ You should now have the React application running on your local machine. Open yo
 
 The project structure is organized as follows:
 
-your-project/
-├── public/
-│ ├── index.html
-│ ├── robots.txt
-│ └── favicon.ico
-├── src/
-│ ├── components/
-│ │ └── Navigation.js
-│ ├── pages/
-│ │ └── Home.js
-│ │ └── About.js
-│ ├── styles/
-│ │ ├── components/
-│ │ │ └── _navigation.scss
-│ │ ├── _settings.scss
-│ │ └── index.scss
-│ ├── App.js
-│ └── index.js
-├── .gitignore
-├── package.json
-└── README.md
+your-project/ 
+├── public/ 
+│ ├── index.html 
+│ ├── robots.txt 
+│ └── favicon.ico 
+├── src/ 
+│ ├── components/ 
+│ │ └── Navigation.js 
+│ ├── pages/ 
+│ │ └── Home.js 
+│ │ └── About.js 
+│ ├── styles/ 
+│ │ ├── components/ 
+│ │ │ └── _navigation.scss 
+│ │ ├── _settings.scss 
+│ │ └── index.scss 
+│ ├── App.js 
+│ └── index.js 
+├── .gitignore 
+├── package.json 
+└── README.md 
 
 - The `public` directory contains the `index.html` file, which is the entry point for your React application, along with the `robots.txt` and `favicon.ico` files.
 - The `src` directory is where you'll place your React components, pages, and styles.
