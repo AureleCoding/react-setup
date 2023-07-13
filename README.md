@@ -21,8 +21,7 @@ To get started with this React setup, follow the steps below:
 3. Install the project dependencies: `npm install`.
 4. Start the development server: `npm start`.
 
-You should now have the React application running on your local machine. Open your browser and navigate to `http://localhost:3000` to see the app in action. 
-Any changes you make to the source code will automatically update the application in the browser.
+You should now have the React application running on your local machine. Open your browser and navigate to `http://localhost:3000` to see the app in action. Any changes you make to the source code will automatically update the application in the browser.
 
 ## Project Structure
 
