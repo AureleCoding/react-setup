@@ -10,7 +10,6 @@ This repository provides a quick setup for developing React applications. It inc
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Scripts](#scripts)
-- [License](#license)
 
 ## Getting Started
 
