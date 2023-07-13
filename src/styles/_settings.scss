@@ -1,0 +1,30 @@
+// @font-face {
+//   font-family: "JosefinSans";
+//   src: url(../assets/fonts/JosefinSans-Medium.ttf);
+// }
+
+$font: Arial, sans-serif;
+
+$black: black;
+$white: white;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: $white;
+  font-family: $font;
+}
+li {
+  list-style-type: none;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
