@@ -28,6 +28,7 @@ You should now have the React application running on your local machine. Open yo
 The project structure is organized as follows:
 
 your-project/ 
+
 ├── public/ 
 │ ├── index.html 
 │ ├── robots.txt 
